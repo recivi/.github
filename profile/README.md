@@ -6,6 +6,4 @@ humans, in that order.
 ## Repositories
 
 - [`recivi/recivi`](https://github.com/recivi/recivi): This repo contains the
-  source code for the schema and documentation.
-- [`recivi/portfolio`](https://github.com/recivi/portfolio): This repo contains
-  the source code for the portfolio template.
+  source code for all Récivi packages.
